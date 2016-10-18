@@ -58,6 +58,10 @@ div.Contents{
   float: right;
 }
 
+.UnionSqr figcaption {
+  font-size: 11px;
+}
+
 #Union {
   border: 1px solid black;
   width: 375px;
